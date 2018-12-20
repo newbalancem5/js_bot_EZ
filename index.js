@@ -2,7 +2,7 @@
 
 const Telega = require('node-telegram-bot-api');
     
-const token = '682285060:AAGrvXULKEAey9LQj51P71bUxoG-xL4euN0';
+const token = '';
 const bot = new Telega(token,{polling:true});
 
 
